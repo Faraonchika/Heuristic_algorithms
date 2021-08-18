@@ -1,2 +1,2 @@
 # Heuristic_algorithms
-Heuristic algorithms from scratch
+Here you can find some heuristic algorithms coded in Python
