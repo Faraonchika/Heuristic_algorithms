@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Faraonchika/Heuristic_algo
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Привет! Моя страница:https://vk.com/lilbern
+Привет! [Моя страница](https://vk.com/lilbern)
 
 
 ### Markdown
